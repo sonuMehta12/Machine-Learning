@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and model artifacts (keep the repo light — track code/notebooks, not data)
+data/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# OS
+.DS_Store
+
+# Personal reading material — not part of the code repo
+Books/
