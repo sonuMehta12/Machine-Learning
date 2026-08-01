@@ -19,6 +19,9 @@ data/
 *.ckpt
 *.onnx
 
+# Weights & Biases local run logs
+wandb/
+
 # OS
 .DS_Store
 
