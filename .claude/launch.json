@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jupyter-lab",
+      "runtimeExecutable": "uv",
+      "runtimeArgs": ["run", "jupyter", "lab", "--no-browser", "--port=8888"],
+      "port": 8888
+    },
+    {
+      "name": "books",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8899", "--directory", "Books"],
+      "port": 8899
+    }
+  ]
+}
