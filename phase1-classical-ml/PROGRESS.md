@@ -24,7 +24,7 @@ shape errors and performance problems are readable instead of mysterious.
 | 5 | Indexing and boolean masks | How do I select the rows I care about — the daily work of data cleaning? |
 | 6 | An image is an array | Ties it to the goal: computer vision is NumPy with pictures. |
 
-- [ ] Lesson 1 — Why NumPy exists
+- [x] Lesson 1 — Why NumPy exists ✅ (2 Aug) — vectorization, boxing, why looping over an array is worse than a list
 - [ ] Lesson 2 — The ndarray model
 - [ ] Lesson 3 — Axes
 - [ ] Lesson 4 — Broadcasting
