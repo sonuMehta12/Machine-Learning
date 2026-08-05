@@ -10,6 +10,7 @@ Read these three files before teaching:
 | [USER.md](USER.md) | Who Sonu is — background, strengths, gaps, how he learns |
 | [TEACHER.md](TEACHER.md) | How to teach him. Deliberately open-ended. |
 | [ROADMAP.md](ROADMAP.md) | The full 6–12 month plan, phase by phase |
+| [USE_CASES.md](USE_CASES.md) | Product ideas and use cases as they come up — future project candidates |
 
 ## Where we are right now
 
